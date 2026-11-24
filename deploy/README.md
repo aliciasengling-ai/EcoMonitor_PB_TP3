@@ -1,0 +1,1 @@
+Implantação futura: publicar repositório e configurar Streamlit Community Cloud. Não implantado no TP1.
